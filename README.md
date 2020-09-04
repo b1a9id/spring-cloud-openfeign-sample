@@ -2,7 +2,7 @@
 
 ## Try it
 Consumer
-```sh:
+```sh
 $ cd consumer
 $ ./mvnw clean spring-boot:run
 ```
