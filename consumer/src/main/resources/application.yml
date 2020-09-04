@@ -1,1 +1,4 @@
-producer.url: "localhost:18080"
+producer.url: "localhost:18080/api"
+server:
+  servlet:
+    context-path: /api
