@@ -15,9 +15,6 @@ $ ./mvnw clean spring-boot:run
 
 ```sh
 $ curl -v http://localhost:8080/api/sakes | jq .
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying ::1...
 * TCP_NODELAY set
 * Connected to localhost (::1) port 8080 (#0)
 > GET /api/sakes HTTP/1.1
