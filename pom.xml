@@ -5,6 +5,7 @@
 
 	<groupId>com.b1a9idps</groupId>
 	<artifactId>spring-cloud-openfeign-sample</artifactId>
+	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-cloud-openfeign-sample</name>
 	<description>Sample for Spring Cloud OpenFeign</description>
